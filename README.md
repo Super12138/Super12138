@@ -1,3 +1,3 @@
 ### Hi I'm Super12138 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Super12138&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Super12138"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Super12138&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Super12138"/>
