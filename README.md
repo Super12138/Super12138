@@ -1,8 +1,14 @@
 ### Hi I'm Super12138 👋
 
-一个前端爱好者
+一个前端爱好者<br>
 正在学习Android&Kotlin
 
-[![统计信息](https://github-readme-stats.vercel.app/api?username=Super12138&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)](https://github.com/Super12138/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
+</picture>
 
-[![使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Super12138&layout=compact)](https://github.com/Super12138/)
+<br>
+
+[![统计信息](https://github-readme-stats.vercel.app/api?username=Super12138&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)](https://github.com/Super12138/)
