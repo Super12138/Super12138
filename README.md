@@ -12,7 +12,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Super12138&theme=github_dark&show_icons=true&hide_title=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Super12138&theme=default&show_icons=true&hide_title=true&include_all_commits=true" />
-  <img alt="统计信息" src="https://github-readme-stats.vercel.app/api?username=Super12138&theme=default&show_icons=true&hide_title=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Super12138&theme=github_dark&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&locale=cn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Super12138&theme=default&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&locale=cn" />
+  <img alt="统计信息" src="https://github-readme-stats.vercel.app/api?username=Super12138&theme=default&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&locale=cn" />
 </picture>
