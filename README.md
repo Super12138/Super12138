@@ -1,8 +1,9 @@
 ### Hi I'm Super12138 👋
 
-一个前端爱好者<br>
-正在学习Android&Kotlin
-
+一个前端爱好者
+<br>
+<br>
+![我的技能](https://skillicons.dev/icons?i=js,ts,html,css,vue,kotlin,androidstudio)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghproxy.com/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://ghproxy.com/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
