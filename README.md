@@ -1,13 +1,16 @@
 ### Hi I'm Super12138 👋
 
-一个前端爱好者
+一个前端爱好者，会一点 Android 开发
 <br>
 <br>
+
 ![我的技能](https://skillicons.dev/icons?i=js,ts,html,css,vue,kotlin,androidstudio)
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghproxy.com/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghproxy.com/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
-  <img alt="贡献趋势" src="https://ghproxy.com/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
+  <img alt="贡献趋势" src="https://ghfast.top/raw.githubusercontent.com/Super12138/Super12138/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
